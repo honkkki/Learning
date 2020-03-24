@@ -14,33 +14,33 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="16" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="17" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="14" />
+          <entry key="md" value="15" />
           <entry key="php" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="14" />
+          <entry key="Markdown" value="15" />
           <entry key="PHP" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="578" />
+          <entry key="md" value="610" />
           <entry key="php" value="4141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="578" />
+          <entry key="Markdown" value="610" />
           <entry key="PHP" value="4141" />
         </counts>
       </usages-collector>
@@ -48,21 +48,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/595. 大的国家/read.md">
+        <entry file="file://$PROJECT_DIR$/test/596. 超过5名学生的课/read.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="571">
-                <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <first_editor relative-caret-position="280">
+                <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,6 +92,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数/index.php" />
         <option value="$PROJECT_DIR$/test/595. 大的国家/read.md" />
+        <option value="$PROJECT_DIR$/test/596. 超过5名学生的课/read.md" />
       </list>
     </option>
   </component>
@@ -113,7 +105,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1373" />
@@ -124,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,16 +128,11 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="595. 大的国家" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,11 +144,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/596. 超过5名学生的课" />
       <recent name="$PROJECT_DIR$/test/595. 大的国家" />
       <recent name="$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数" />
       <recent name="$PROJECT_DIR$/test/189. 旋转数组" />
       <recent name="$PROJECT_DIR$/test/176. 第二高的薪水" />
-      <recent name="$PROJECT_DIR$/test/58左旋转字符串" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,18 +190,19 @@
       <workItem from="1584948175713" duration="762000" />
       <workItem from="1584950251577" duration="1880000" />
       <workItem from="1584955595834" duration="1086000" />
-      <workItem from="1585012962258" duration="211000" />
+      <workItem from="1585012962258" duration="634000" />
+      <workItem from="1585017601822" duration="269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34053000" />
+    <option name="totallyTimeSpent" value="34745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="23" width="1373" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09466566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20961682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -425,15 +412,25 @@
     <entry file="file://$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/595. 大的国家/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="571">
-            <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <first_editor relative-caret-position="300">
+            <caret line="10" column="29" selection-end-line="47" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/596. 超过5名学生的课/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
