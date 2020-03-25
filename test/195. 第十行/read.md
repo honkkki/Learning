@@ -23,7 +23,7 @@
  
 `解题思路`
 
-1 seq
+1 sed
 
     `sed -n 10p file.txt `
     sed擅长行输出
