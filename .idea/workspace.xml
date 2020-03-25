@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/test/35. 搜索插入位置/index.php" description="*/" line="23" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/193. 有效电话号码/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/193. 有效电话号码/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/35. 搜索插入位置/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/195. 第十行/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/test/195. 第十行/read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,38 +19,38 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.0" value="19" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="21" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="20" />
-          <entry key="php" value="30" />
+          <entry key="md" value="21" />
+          <entry key="php" value="32" />
           <entry key="rd" value="1" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="20" />
-          <entry key="PHP" value="30" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Markdown" value="21" />
+          <entry key="PHP" value="32" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="774" />
-          <entry key="php" value="4636" />
+          <entry key="php" value="5409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="774" />
-          <entry key="PHP" value="4636" />
+          <entry key="PHP" value="5409" />
         </counts>
       </usages-collector>
     </session>
@@ -56,13 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/193. 有效电话号码/read.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="211">
-                <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/test/35. 搜索插入位置/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,11 +98,12 @@
         <option value="$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数/index.php" />
         <option value="$PROJECT_DIR$/test/595. 大的国家/read.md" />
         <option value="$PROJECT_DIR$/test/596. 超过5名学生的课/read.md" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/test/620. 有趣的电影/read.md" />
         <option value="$PROJECT_DIR$/test/195. 第十行/read.md" />
         <option value="$PROJECT_DIR$/test/193. 有效电话号码/file.txt" />
         <option value="$PROJECT_DIR$/test/193. 有效电话号码/read.md" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/test/35. 搜索插入位置/index.php" />
       </list>
     </option>
   </component>
@@ -127,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,11 +167,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/35. 搜索插入位置" />
       <recent name="$PROJECT_DIR$/test/193. 有效电话号码" />
       <recent name="$PROJECT_DIR$/test/620. 有趣的电影" />
       <recent name="$PROJECT_DIR$/test/344. 反转字符串" />
       <recent name="$PROJECT_DIR$/test/195. 第十行" />
-      <recent name="$PROJECT_DIR$/test/596. 超过5名学生的课" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,18 +217,20 @@
       <workItem from="1585017601822" duration="1906000" />
       <workItem from="1585021678797" duration="1093000" />
       <workItem from="1585099503514" duration="930000" />
-      <workItem from="1585101843359" duration="3000" />
+      <workItem from="1585101843359" duration="1613000" />
+      <workItem from="1585103521814" duration="1454000" />
+      <workItem from="1585105600707" duration="1695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38408000" />
+    <option name="totallyTimeSpent" value="43167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="67" width="1373" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21863261" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22464313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -459,9 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/195. 第十行/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/344. 反转字符串/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -479,20 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/195. 第十行/read.md">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/193. 有效电话号码/file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -500,13 +485,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/195. 第十行/read.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="460">
+            <caret line="23" column="6" lean-forward="true" selection-end-line="43" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/195. 第十行/file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/193. 有效电话号码/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="211">
-            <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <first_editor relative-caret-position="191">
+            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="25" column="30" selection-end-line="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/35. 搜索插入位置/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
