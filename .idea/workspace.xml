@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/197. 上升的温度/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/192. 统计词频/read.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +18,16 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="23" />
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.0" value="24" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="28" />
+          <entry key="md" value="29" />
           <entry key="php" value="37" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
@@ -35,20 +35,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="28" />
+          <entry key="Markdown" value="29" />
           <entry key="PHP" value="37" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="835" />
+          <entry key="md" value="841" />
           <entry key="php" value="5566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="835" />
+          <entry key="Markdown" value="841" />
           <entry key="PHP" value="5566" />
         </counts>
       </usages-collector>
@@ -57,11 +57,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/197. 上升的温度/read.md">
+        <entry file="file://$PROJECT_DIR$/test/192. 统计词频/read.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <first_editor relative-caret-position="340">
+                <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,6 +110,7 @@
         <option value="$PROJECT_DIR$/test/627. 交换工资/read.md" />
         <option value="$PROJECT_DIR$/test/197. 上升的温度/read.md" />
         <option value="$PROJECT_DIR$/test/181. 超过经理收入的员工/read.md" />
+        <option value="$PROJECT_DIR$/test/192. 统计词频/read.md" />
       </list>
     </option>
   </component>
@@ -145,24 +146,6 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="181. 超过经理收入的员工" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="197. 上升的温度" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="627. 交换工资" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,11 +162,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/192. 统计词频" />
       <recent name="$PROJECT_DIR$/test/197. 上升的温度" />
       <recent name="$PROJECT_DIR$/test/181. 超过经理收入的员工" />
       <recent name="$PROJECT_DIR$/test/627. 交换工资" />
       <recent name="$PROJECT_DIR$/test/58. 最后一个单词的长度" />
-      <recent name="$PROJECT_DIR$/test/35. 搜索插入位置" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,18 +216,19 @@
       <workItem from="1585103521814" duration="1454000" />
       <workItem from="1585105600707" duration="4811000" />
       <workItem from="1585122920398" duration="542000" />
-      <workItem from="1585190455262" duration="1366000" />
+      <workItem from="1585190455262" duration="1548000" />
+      <workItem from="1585195164236" duration="109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48191000" />
+    <option name="totallyTimeSpent" value="48482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1373" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23065364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23365891" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -563,8 +547,18 @@
     <entry file="file://$PROJECT_DIR$/test/197. 上升的温度/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <first_editor relative-caret-position="360">
+            <caret line="16" column="8" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/192. 统计词频/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
