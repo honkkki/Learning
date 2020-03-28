@@ -53,7 +53,7 @@ class Solution {
         $arrs = array_count_values($deck);
         $x = array_shift($arrs);
         foreach($arrs as $v){
-            $x =$this->gds($x,$v);
+            $x =$this->gcd($x,$v);
             if ($x == 1){
                 return false;
             }
@@ -62,8 +62,8 @@ class Solution {
     }
 
     //辗转相除法
-    public function gds($a, $b) {
-        return $b == 0 ? $a : $this->gds($b, $a % $b);
+    public function gcd($a, $b) {
+        return $b == 0 ? $a : $this->gcd($b, $a % $b);
     }
 
     /**

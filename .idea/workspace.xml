@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/914. 卡牌分组/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/面试题64. 求1+2+…+n/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/914. 卡牌分组/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/914. 卡牌分组/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="32" />
-          <entry key="php" value="71" />
+          <entry key="php" value="75" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -36,29 +36,38 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="32" />
-          <entry key="PHP" value="71" />
+          <entry key="PHP" value="75" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="873" />
-          <entry key="php" value="10357" />
+          <entry key="php" value="10486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="873" />
-          <entry key="PHP" value="10357" />
+          <entry key="PHP" value="10486" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/面试题64. 求1+2+…+n/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -154,6 +163,12 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="914. 卡牌分组" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="面试题64. 求1+2+…+n" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/面试题64. 求1+2+…+n" />
       <recent name="$PROJECT_DIR$/test/914. 卡牌分组" />
       <recent name="$PROJECT_DIR$/test/1281. 整数的各位积和之差" />
       <recent name="$PROJECT_DIR$/test/LCP 1. 猜数字" />
       <recent name="$PROJECT_DIR$/test/26. 删除排序数组中的重复项" />
-      <recent name="$PROJECT_DIR$/test/349. 两个数组的交集" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,12 +246,12 @@
       <workItem from="1585217252113" duration="7506000" />
       <workItem from="1585280261642" duration="1218000" />
       <workItem from="1585289619210" duration="1273000" />
-      <workItem from="1585296605474" duration="7582000" />
+      <workItem from="1585296605474" duration="8729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75150000" />
+    <option name="totallyTimeSpent" value="76297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="310" y="26" width="1373" height="833" extended-state="0" />
@@ -263,7 +278,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27253446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -663,13 +678,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/914. 卡牌分组/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="400">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/面试题64. 求1+2+…+n/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
