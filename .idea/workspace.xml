@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/1281. 整数的各位积和之差/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/914. 卡牌分组/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +18,17 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
-          <entry key="project.open.time.0" value="28" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="30" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="32" />
-          <entry key="php" value="68" />
+          <entry key="php" value="71" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -35,33 +36,28 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="32" />
-          <entry key="PHP" value="68" />
+          <entry key="PHP" value="71" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="873" />
-          <entry key="php" value="8727" />
+          <entry key="php" value="10357" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="873" />
-          <entry key="PHP" value="8727" />
+          <entry key="PHP" value="10357" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/1281. 整数的各位积和之差/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -114,6 +110,7 @@
         <option value="$PROJECT_DIR$/test/196. 删除重复的电子邮箱/read.md" />
         <option value="$PROJECT_DIR$/test/26. 删除排序数组中的重复项/index.php" />
         <option value="$PROJECT_DIR$/test/LCP 1. 猜数字/index.php" />
+        <option value="$PROJECT_DIR$/test/914. 卡牌分组/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -128,8 +125,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="45" />
+    <option name="x" value="310" />
+    <option name="y" value="26" />
     <option name="width" value="1373" />
     <option name="height" value="833" />
   </component>
@@ -151,6 +148,12 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="914. 卡牌分组" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -158,6 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -166,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/914. 卡牌分组" />
       <recent name="$PROJECT_DIR$/test/1281. 整数的各位积和之差" />
       <recent name="$PROJECT_DIR$/test/LCP 1. 猜数字" />
       <recent name="$PROJECT_DIR$/test/26. 删除排序数组中的重复项" />
       <recent name="$PROJECT_DIR$/test/349. 两个数组的交集" />
-      <recent name="$PROJECT_DIR$/test/1365. 有多少小于当前数字的数字" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,18 +229,20 @@
       <workItem from="1585212298866" duration="1929000" />
       <workItem from="1585216070887" duration="545000" />
       <workItem from="1585217252113" duration="7506000" />
-      <workItem from="1585280261642" duration="1052000" />
+      <workItem from="1585280261642" duration="1218000" />
+      <workItem from="1585289619210" duration="1273000" />
+      <workItem from="1585296605474" duration="7582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66129000" />
+    <option name="totallyTimeSpent" value="75150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="45" width="1373" height="833" extended-state="0" />
+    <frame x="310" y="26" width="1373" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24718256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +491,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/195. 第十行/read.md">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="460">
@@ -494,6 +499,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test/195. 第十行/file.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -649,7 +655,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/1281. 整数的各位积和之差/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/914. 卡牌分组/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor" />
