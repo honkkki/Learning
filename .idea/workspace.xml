@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/1389. 按既定顺序创建目标数组/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/1313. 解压缩编码列表/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="32" />
-          <entry key="php" value="80" />
+          <entry key="php" value="82" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -35,31 +35,36 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="32" />
-          <entry key="PHP" value="80" />
+          <entry key="PHP" value="82" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="873" />
-          <entry key="php" value="11330" />
+          <entry key="php" value="11588" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="873" />
-          <entry key="PHP" value="11330" />
+          <entry key="PHP" value="11588" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/1389. 按既定顺序创建目标数组/index.php">
+        <entry file="file://$PROJECT_DIR$/test/1313. 解压缩编码列表/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="300">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -155,7 +160,7 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="1389. 按既定顺序创建目标数组" type="462c0819:PsiDirectoryNode" />
+              <item name="1313. 解压缩编码列表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,11 +178,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/1313. 解压缩编码列表" />
       <recent name="$PROJECT_DIR$/test/1389. 按既定顺序创建目标数组" />
       <recent name="$PROJECT_DIR$/test/1295. 统计位数为偶数的数字" />
       <recent name="$PROJECT_DIR$/test/面试题64. 求1+2+…+n" />
       <recent name="$PROJECT_DIR$/test/914. 卡牌分组" />
-      <recent name="$PROJECT_DIR$/test/1281. 整数的各位积和之差" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,12 +239,12 @@
       <workItem from="1585217252113" duration="7506000" />
       <workItem from="1585280261642" duration="1218000" />
       <workItem from="1585289619210" duration="1273000" />
-      <workItem from="1585296605474" duration="12688000" />
+      <workItem from="1585296605474" duration="13640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80256000" />
+    <option name="totallyTimeSpent" value="81208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="195" y="35" width="1373" height="833" extended-state="0" />
@@ -294,16 +299,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/二分查找、大O表示法/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -685,13 +680,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/1389. 按既定顺序创建目标数组/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="13" lean-forward="true" selection-end-line="65" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/1389. 按既定顺序创建目标数组/index.php">
+    <entry file="file://$PROJECT_DIR$/test/1313. 解压缩编码列表/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="300">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
