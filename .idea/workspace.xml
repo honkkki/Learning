@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/155. 最小栈/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/232. 用栈实现队列/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="33" />
-          <entry key="php" value="107" />
+          <entry key="php" value="112" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -32,28 +32,33 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="33" />
-          <entry key="PHP" value="107" />
+          <entry key="PHP" value="112" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="873" />
-          <entry key="php" value="19816" />
+          <entry key="php" value="20200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="873" />
-          <entry key="PHP" value="19816" />
+          <entry key="PHP" value="20200" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/232. 用栈实现队列/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -66,13 +71,13 @@
       <find>buildGraph</find>
       <find>'</find>
       <find>:</find>
-      <find>.</find>
       <find>query</find>
+      <find>.</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
-      <replace>-&gt;</replace>
       <replace>arr</replace>
+      <replace>-&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -155,12 +160,6 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="155. 最小栈" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -178,11 +177,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/232. 用栈实现队列" />
       <recent name="$PROJECT_DIR$/test/155. 最小栈" />
       <recent name="$PROJECT_DIR$/test/136. 只出现一次的数字" />
       <recent name="$PROJECT_DIR$/test/88. 合并两个有序数组" />
       <recent name="$PROJECT_DIR$/test/28. 实现 strStr()" />
-      <recent name="$PROJECT_DIR$/test/14. 最长公共前缀" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -260,12 +259,12 @@
       <workItem from="1586423544953" duration="3206000" />
       <workItem from="1586427275860" duration="310000" />
       <workItem from="1586511311536" duration="1711000" />
-      <workItem from="1586588210917" duration="4202000" />
+      <workItem from="1586588210917" duration="5736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119247000" />
+    <option name="totallyTimeSpent" value="120781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -320,23 +319,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/596. 超过5名学生的课/read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="21" column="10" lean-forward="true" selection-end-line="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/344. 反转字符串/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/620. 有趣的电影/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -685,19 +667,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/136. 只出现一次的数字/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        <state relative-caret-position="205">
+          <caret line="22" column="22" lean-forward="true" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/155. 最小栈/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="400">
+          <caret line="20" column="16" lean-forward="true" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="968" column="6" selection-start-line="968" selection-start-column="6" selection-end-line="968" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/232. 用栈实现队列/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
