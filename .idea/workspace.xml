@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/231. 2的幂/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/258. 各位相加/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +15,17 @@
     <session id="2044781979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
-          <entry key="project.open.time.0" value="50" />
+          <entry key="project.closed" value="55" />
+          <entry key="project.open.time.0" value="51" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="33" />
-          <entry key="php" value="116" />
+          <entry key="php" value="119" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -33,33 +33,33 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="33" />
-          <entry key="PHP" value="116" />
+          <entry key="PHP" value="119" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="873" />
-          <entry key="php" value="20392" />
+          <entry key="php" value="20545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="873" />
-          <entry key="PHP" value="20392" />
+          <entry key="PHP" value="20545" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/231. 2的幂/index.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/258. 各位相加/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -163,6 +163,12 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="258. 各位相加" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/258. 各位相加" />
       <recent name="$PROJECT_DIR$/test/231. 2的幂" />
       <recent name="$PROJECT_DIR$/test/232. 用栈实现队列" />
       <recent name="$PROJECT_DIR$/test/155. 最小栈" />
       <recent name="$PROJECT_DIR$/test/136. 只出现一次的数字" />
-      <recent name="$PROJECT_DIR$/test/88. 合并两个有序数组" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,18 +268,19 @@
       <workItem from="1586427275860" duration="310000" />
       <workItem from="1586511311536" duration="1711000" />
       <workItem from="1586588210917" duration="5940000" />
-      <workItem from="1586742578518" duration="309000" />
+      <workItem from="1586742578518" duration="335000" />
+      <workItem from="1586745294290" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121294000" />
+    <option name="totallyTimeSpent" value="121710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21661721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21958457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,13 +329,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/193. 有效电话号码/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/195. 第十行/read.md">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -687,6 +687,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/231. 2的幂/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/258. 各位相加/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
