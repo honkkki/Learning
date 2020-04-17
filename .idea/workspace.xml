@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/178. 分数排名/read.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +15,15 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="59" />
-          <entry key="project.open.time.0" value="54" />
+          <entry key="project.open.time.0" value="55" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.opened" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="35" />
+          <entry key="md" value="36" />
           <entry key="php" value="149" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
@@ -29,20 +31,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="35" />
+          <entry key="Markdown" value="36" />
           <entry key="PHP" value="149" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="873" />
+          <entry key="md" value="879" />
           <entry key="php" value="22445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="873" />
+          <entry key="Markdown" value="879" />
           <entry key="PHP" value="22445" />
         </counts>
       </usages-collector>
@@ -50,16 +52,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/219. 存在重复元素 II/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <entry file="file://$PROJECT_DIR$/test/178. 分数排名/read.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="395">
+                <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -128,6 +128,7 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/test/232. 用栈实现队列/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/test/178. 分数排名/read.md" />
       </list>
     </option>
   </component>
@@ -167,7 +168,7 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="219. 存在重复元素 II" type="462c0819:PsiDirectoryNode" />
+              <item name="178. 分数排名" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,11 +187,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/178. 分数排名" />
       <recent name="$PROJECT_DIR$/test/219. 存在重复元素 II" />
       <recent name="$PROJECT_DIR$/test/217. 存在重复元素" />
       <recent name="$PROJECT_DIR$/test/485. 最大连续1的个数" />
       <recent name="$PROJECT_DIR$/test/342. 4的幂" />
-      <recent name="$PROJECT_DIR$/test/283. 移动零" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,17 +275,18 @@
       <workItem from="1586747805237" duration="3879000" />
       <workItem from="1586922301169" duration="624000" />
       <workItem from="1587030673450" duration="1936000" />
+      <workItem from="1587108151356" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129489000" />
+    <option name="totallyTimeSpent" value="130097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22848664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13798219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,16 +335,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/197. 上升的温度/read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="16" column="8" selection-end-line="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/192. 统计词频/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -681,13 +673,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/219. 存在重复元素 II/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/178. 分数排名/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="395">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
