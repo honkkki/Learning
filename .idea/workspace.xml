@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/938. 二叉搜索树的范围和/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/617. 合并二叉树/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +25,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="205" />
+          <entry key="php" value="206" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -33,31 +33,43 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="205" />
+          <entry key="PHP" value="206" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26523" />
+          <entry key="php" value="26525" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26523" />
+          <entry key="PHP" value="26525" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/938. 二叉搜索树的范围和/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="300">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/617. 合并二叉树/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#405#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/176. 第二高的薪水/read.md" />
         <option value="$PROJECT_DIR$/test/189. 旋转数组/index.php" />
         <option value="$PROJECT_DIR$/test/1342. 将数字变成 0 的操作次数/index.php" />
         <option value="$PROJECT_DIR$/test/595. 大的国家/read.md" />
@@ -137,6 +148,7 @@
         <option value="$PROJECT_DIR$/test/965. 单值二叉树/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 04.02. 最小高度树/index.php" />
         <option value="$PROJECT_DIR$/test/938. 二叉搜索树的范围和/index.php" />
+        <option value="$PROJECT_DIR$/test/617. 合并二叉树/index.php" />
       </list>
     </option>
   </component>
@@ -283,12 +295,12 @@
       <workItem from="1589184182491" duration="795000" />
       <workItem from="1589527561985" duration="5316000" />
       <workItem from="1589787544891" duration="4941000" />
-      <workItem from="1589962505538" duration="8225000" />
+      <workItem from="1589962505538" duration="8536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158750000" />
+    <option name="totallyTimeSpent" value="159061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
@@ -343,11 +355,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/268. 缺失数字/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/485. 最大连续1的个数/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -656,8 +663,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/938. 二叉搜索树的范围和/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/617. 合并二叉树/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#405#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
