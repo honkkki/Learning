@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/235. 二叉搜索树的最近公共祖先/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/965. 单值二叉树/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="202" />
+          <entry key="php" value="203" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -34,7 +32,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="202" />
+          <entry key="PHP" value="203" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -86,13 +84,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="700">
               <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/965. 单值二叉树/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -322,12 +325,12 @@
       <workItem from="1589184182491" duration="795000" />
       <workItem from="1589527561985" duration="5316000" />
       <workItem from="1589787544891" duration="4941000" />
-      <workItem from="1589962505538" duration="6700000" />
+      <workItem from="1589962505538" duration="6984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157225000" />
+    <option name="totallyTimeSpent" value="157509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
@@ -382,13 +385,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/283. 移动零/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/258. 各位相加/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-62" />
@@ -694,6 +690,9 @@
           <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/965. 单值二叉树/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
