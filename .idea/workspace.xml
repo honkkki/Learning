@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/235. 二叉搜索树的最近公共祖先/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +26,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="199" />
+          <entry key="php" value="202" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -30,27 +34,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="199" />
+          <entry key="PHP" value="202" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26513" />
+          <entry key="php" value="26517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26513" />
+          <entry key="PHP" value="26517" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -60,6 +64,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
               <caret line="49" column="5" lean-forward="true" selection-end-line="50" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/236. 二叉树的最近公共祖先/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/235. 二叉搜索树的最近公共祖先/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,9 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/选择排序/readme.md" />
-        <option value="$PROJECT_DIR$/广度优先搜索/index.php" />
-        <option value="$PROJECT_DIR$/广度优先搜索/readme.md" />
         <option value="$PROJECT_DIR$/广度优先搜索/test.php" />
         <option value="$PROJECT_DIR$/test/两数之和/index.php" />
         <option value="$PROJECT_DIR$/test/182查找重复的电子邮箱/read.md" />
@@ -139,6 +167,9 @@
         <option value="$PROJECT_DIR$/test/面试题27. 二叉树的镜像/index.php" />
         <option value="$PROJECT_DIR$/test/226. 翻转二叉树/index.php" />
         <option value="$PROJECT_DIR$/test/面试题54. 二叉搜索树的第k大节点/index.php" />
+        <option value="$PROJECT_DIR$/test/236. 二叉树的最近公共祖先/index.php" />
+        <option value="$PROJECT_DIR$/test/235. 二叉搜索树的最近公共祖先/index.php" />
+        <option value="$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php" />
       </list>
     </option>
   </component>
@@ -178,7 +209,7 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题54. 二叉搜索树的第k大节点" type="462c0819:PsiDirectoryNode" />
+              <item name="面试题68 - I. 二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,12 +322,12 @@
       <workItem from="1589184182491" duration="795000" />
       <workItem from="1589527561985" duration="5316000" />
       <workItem from="1589787544891" duration="4941000" />
-      <workItem from="1589962505538" duration="5918000" />
+      <workItem from="1589962505538" duration="6700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156443000" />
+    <option name="totallyTimeSpent" value="157225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
@@ -351,27 +382,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/155. 最小栈/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="16" lean-forward="true" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL_c1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="968" column="6" selection-start-line="968" selection-start-column="6" selection-end-line="968" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/232. 用栈实现队列/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-962">
-          <caret line="14" column="14" selection-end-line="93" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/283. 移动零/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -663,6 +673,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/236. 二叉树的最近公共祖先/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/235. 二叉搜索树的最近公共祖先/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/面试题68 - I. 二叉搜索树的最近公共祖先/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
