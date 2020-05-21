@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/111. 二叉树的最小深度/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/104. 二叉树的最大深度/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/面试题55 - I. 二叉树的深度/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="193" />
+          <entry key="php" value="195" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -34,27 +34,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="193" />
+          <entry key="PHP" value="195" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26494" />
+          <entry key="php" value="26496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26494" />
+          <entry key="PHP" value="26496" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -64,6 +64,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/面试题55 - I. 二叉树的深度/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="42" column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/104. 二叉树的最大深度/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,8 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/二分查找、大O表示法/readme.md" />
-        <option value="$PROJECT_DIR$/选择排序/index.php" />
         <option value="$PROJECT_DIR$/递归/index.php" />
         <option value="$PROJECT_DIR$/递归/readme.md" />
         <option value="$PROJECT_DIR$/快速排序/index.php" />
@@ -143,6 +159,8 @@
         <option value="$PROJECT_DIR$/test/面试题 04.04. 检查平衡性/index.php" />
         <option value="$PROJECT_DIR$/test/111. 二叉树的最小深度/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/test/面试题55 - I. 二叉树的深度/index.php" />
+        <option value="$PROJECT_DIR$/test/104. 二叉树的最大深度/index.php" />
       </list>
     </option>
   </component>
@@ -177,12 +195,6 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题55 - II. 平衡二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,12 +307,12 @@
       <workItem from="1589184182491" duration="795000" />
       <workItem from="1589527561985" duration="5316000" />
       <workItem from="1589787544891" duration="4941000" />
-      <workItem from="1589962505538" duration="3762000" />
+      <workItem from="1589962505538" duration="4692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154287000" />
+    <option name="totallyTimeSpent" value="155217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="6" />
@@ -355,20 +367,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/2. 两数相加/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/14. 最长公共前缀/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="32" column="16" selection-end-line="43" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/28. 实现 strStr()/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -658,6 +656,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/111. 二叉树的最小深度/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -665,8 +666,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/test/面试题55 - I. 二叉树的深度/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="42" column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/104. 二叉树的最大深度/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
