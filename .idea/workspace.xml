@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/897. 递增顺序查找树/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/589. N叉树的前序遍历/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/590. N叉树的后序遍历/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="211" />
+          <entry key="php" value="213" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -33,34 +34,40 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="211" />
+          <entry key="PHP" value="213" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26533" />
+          <entry key="php" value="26535" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26533" />
+          <entry key="PHP" value="26535" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/897. 递增顺序查找树/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/590. N叉树的后序遍历/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-              <folding>
-                <element signature="e#6#346#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="320">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/589. N叉树的前序遍历/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -89,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/620. 有趣的电影/read.md" />
-        <option value="$PROJECT_DIR$/test/195. 第十行/read.md" />
         <option value="$PROJECT_DIR$/test/193. 有效电话号码/file.txt" />
         <option value="$PROJECT_DIR$/test/193. 有效电话号码/read.md" />
         <option value="$PROJECT_DIR$/test/35. 搜索插入位置/index.php" />
@@ -140,6 +145,8 @@
         <option value="$PROJECT_DIR$/test/108. 将有序数组转换为二叉搜索树/index.php" />
         <option value="$PROJECT_DIR$/test/559. N叉树的最大深度/index.php" />
         <option value="$PROJECT_DIR$/test/897. 递增顺序查找树/index.php" />
+        <option value="$PROJECT_DIR$/test/590. N叉树的后序遍历/index.php" />
+        <option value="$PROJECT_DIR$/test/589. N叉树的前序遍历/index.php" />
       </list>
     </option>
   </component>
@@ -287,12 +294,12 @@
       <workItem from="1589527561985" duration="5316000" />
       <workItem from="1589787544891" duration="4941000" />
       <workItem from="1589962505538" duration="9127000" />
-      <workItem from="1590113975933" duration="732000" />
+      <workItem from="1590113975933" duration="1445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160384000" />
+    <option name="totallyTimeSpent" value="161097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1390" height="877" extended-state="0" />
@@ -347,19 +354,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/178. 分数排名/read.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/204. 计数质数/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -665,11 +659,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/897. 递增顺序查找树/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#346#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/590. N叉树的后序遍历/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/589. N叉树的前序遍历/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
