@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/509. 斐波那契数/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="221" />
+          <entry key="php" value="223" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -30,44 +32,26 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="221" />
+          <entry key="PHP" value="223" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26542" />
+          <entry key="php" value="26543" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26542" />
+          <entry key="PHP" value="26543" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/590. N叉树的后序遍历/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/589. N叉树的前序遍历/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/面试题 17.12. BiNode/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,11 +115,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/面试题32 - II. 从上到下打印二叉树 II/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="52" column="32" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="258">
+              <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/面试题10- I. 斐波那契数列/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/509. 斐波那契数/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -164,8 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/192. 统计词频/read.md" />
-        <option value="$PROJECT_DIR$/test/704. 二分查找/index.php" />
         <option value="$PROJECT_DIR$/test/9. 回文数/index.php" />
         <option value="$PROJECT_DIR$/test/183. 从不订购的客户/read.md" />
         <option value="$PROJECT_DIR$/test/1179. 重新格式化部门表/read.md" />
@@ -215,6 +215,8 @@
         <option value="$PROJECT_DIR$/test/105. 从前序与中序遍历序列构造二叉树/index.php" />
         <option value="$PROJECT_DIR$/test/106. 从中序与后序遍历序列构造二叉树/index.php" />
         <option value="$PROJECT_DIR$/test/面试题32 - I. 从上到下打印二叉树/index.php" />
+        <option value="$PROJECT_DIR$/test/面试题10- I. 斐波那契数列/index.php" />
+        <option value="$PROJECT_DIR$/test/509. 斐波那契数/index.php" />
       </list>
     </option>
   </component>
@@ -249,12 +251,6 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题32 - II. 从上到下打印二叉树 II" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,15 +366,15 @@
       <workItem from="1589962505538" duration="9127000" />
       <workItem from="1590113975933" duration="1740000" />
       <workItem from="1590287377314" duration="1603000" />
-      <workItem from="1590457689079" duration="2411000" />
+      <workItem from="1590457689079" duration="2896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165406000" />
+    <option name="totallyTimeSpent" value="165891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="23" width="1390" height="877" extended-state="1" />
+    <frame x="50" y="23" width="1390" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28189912" />
@@ -430,16 +426,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/面试题11. 旋转数组的最小数字/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/154. 寻找旋转排序数组中的最小值 II/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/面试题53 - II. 0～n-1中缺失的数字/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -745,8 +731,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/面试题32 - II. 从上到下打印二叉树 II/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="32" />
+        <state relative-caret-position="258">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/面试题10- I. 斐波那契数列/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/509. 斐波那契数/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
         </state>
       </provider>
     </entry>
