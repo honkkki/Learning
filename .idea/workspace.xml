@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/面试题59 - II. 队列的最大值/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +37,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="26553" />
+          <entry key="php" value="26554" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="26553" />
+          <entry key="PHP" value="26554" />
         </counts>
       </usages-collector>
     </session>
@@ -63,7 +61,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/面试题59 - II. 队列的最大值/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -90,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/914. 卡牌分组/index.php" />
         <option value="$PROJECT_DIR$/test/面试题 01.06. 字符串压缩/index.php" />
         <option value="$PROJECT_DIR$/test/27. 移除元素/index.php" />
         <option value="$PROJECT_DIR$/test.php" />
@@ -141,6 +142,7 @@
         <option value="$PROJECT_DIR$/test/287. 寻找重复数.php" />
         <option value="$PROJECT_DIR$/test/面试题09. 用两个栈实现队列/index.php" />
         <option value="$PROJECT_DIR$/test/面试题30. 包含min函数的栈/index.php" />
+        <option value="$PROJECT_DIR$/test/面试题59 - II. 队列的最大值/index.php" />
       </list>
     </option>
   </component>
@@ -289,16 +291,15 @@
       <workItem from="1590113975933" duration="1740000" />
       <workItem from="1590287377314" duration="1603000" />
       <workItem from="1590457689079" duration="6997000" />
-      <workItem from="1590663232421" duration="1694000" />
+      <workItem from="1590663232421" duration="2151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171686000" />
+    <option name="totallyTimeSpent" value="172143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28612304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -690,7 +691,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/面试题59 - II. 队列的最大值/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
