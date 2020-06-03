@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28544678-dcb2-41fa-a69f-f6030a07f22a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/415. 字符串相加/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/225. 用队列实现栈/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +25,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="37" />
-          <entry key="php" value="235" />
+          <entry key="php" value="236" />
           <entry key="rd" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -33,20 +33,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="37" />
-          <entry key="PHP" value="235" />
+          <entry key="PHP" value="236" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="941" />
-          <entry key="php" value="27171" />
+          <entry key="php" value="27172" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="941" />
-          <entry key="PHP" value="27171" />
+          <entry key="PHP" value="27172" />
         </counts>
       </usages-collector>
     </session>
@@ -58,9 +58,22 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/415. 字符串相加/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/225. 用队列实现栈/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -87,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/27. 移除元素/index.php" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/test/232. 用栈实现队列/index.php" />
         <option value="$PROJECT_DIR$/test/178. 分数排名/read.md" />
@@ -138,6 +150,7 @@
         <option value="$PROJECT_DIR$/test/面试题59 - II. 队列的最大值/index.php" />
         <option value="$PROJECT_DIR$/test/3. 无重复字符的最长子串/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/test/225. 用队列实现栈/index.php" />
       </list>
     </option>
   </component>
@@ -150,8 +163,8 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
     <option name="y" value="23" />
     <option name="width" value="1390" />
     <option name="height" value="877" />
@@ -172,6 +185,19 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="415. 字符串相加" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="415. 字符串相加" type="462c0819:PsiDirectoryNode" />
+              <item name="index.php" type="88303cf5:PhpFileNode" />
             </path>
           </expand>
           <select />
@@ -290,15 +316,15 @@
       <workItem from="1590457689079" duration="6997000" />
       <workItem from="1590663232421" duration="2479000" />
       <workItem from="1590716407955" duration="1419000" />
-      <workItem from="1591170349999" duration="1211000" />
+      <workItem from="1591170349999" duration="1970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175101000" />
+    <option name="totallyTimeSpent" value="175860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="23" width="1390" height="877" extended-state="6" />
+    <frame x="61" y="23" width="1390" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2945104" />
@@ -350,13 +376,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/面试题57. 和为s的两个数字/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/面试题58 - I. 翻转单词顺序/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -692,7 +711,18 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test/415. 字符串相加/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/225. 用队列实现栈/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
